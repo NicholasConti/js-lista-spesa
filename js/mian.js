@@ -1,6 +1,6 @@
 "use strict";
 
-const list = ['pane', 'carote', 'patate', 'burro'];
+const list = ['Pane', 'Carote', 'Patate', 'Burro'];
 
 let i = 0;
 while (i < list.length){
